@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "myportfolio-static-models",
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
